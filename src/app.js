@@ -28,6 +28,8 @@ for (let i = 0; i<konutKredileri ; i++){
 }
 console.log("</ul>")
 
+// 18 ekim ders sonu
+
 
 
 
